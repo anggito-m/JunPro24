@@ -1,5 +1,5 @@
 # PatchUP
-Aplikasi yang menyediakan panduan dan tutorial untuk memperbaiki barang-barang seperti elektronik, furnitur, atau peralatan rumah tangga, alih-alih membuangnya. Pengguna dapat mencari instruksi perbaikan berdasarkan kategori produk.
+PatchUP adalah Aplikasi yang menyediakan panduan dan tutorial untuk memperbaiki barang-barang elektronik, furnitur, atau peralatan rumah tangga. Alih-alih membuangnya, Pengguna dapat mencari instruksi perbaikan berdasarkan kategori produk.
 
 NAMA KELOMPOK
 
