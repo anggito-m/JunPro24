@@ -3,5 +3,5 @@ PatchUP adalah Aplikasi yang menyediakan panduan dan tutorial untuk memperbaiki 
 
 ### NAMA KELOMPOK
 - Ketua Kelompok :
-- Anggota 1:
+- Anggota 1: Muhammad Rafli Ramadani - 22/497787/TK/54571
 - Anggota 2: Adji Dharmawan Indrianto - 22/499366/TK/54743
