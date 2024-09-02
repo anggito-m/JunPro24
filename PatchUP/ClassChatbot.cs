@@ -14,7 +14,7 @@ namespace PatchUP
         public DateTime Time { get; set; }
 
         // Constructor
-        public Chatbot(int chatID, string prompt, DateTime time)
+        public void Chatbot(int chatID, string prompt, DateTime time)
         {
             ChatID = chatID;
             Time = time;
