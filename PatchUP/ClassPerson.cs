@@ -46,5 +46,30 @@ public class user: person
     {
         this.userID = UserID;
     }
+    public int CreatePlaylist()
+    {
+        //dummy for get video ID
+        int videoID = Console.Read();
+        return videoID;
+    }
+    public string addComment(string comment)
+    {
+       return comment;
+    }
+    public int deleteComment(int commentID)
+    {
+        return commentID;
+    }
+    public void addPost()
+    {
+       
+    }
+    public void makeTutorialRequest()
+    {
 
+    }
+    public void makeQuestion()
+    {
+
+    }
 }
