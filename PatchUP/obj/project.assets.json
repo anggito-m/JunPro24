@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+    "C:\\Users\\muhammad ramadani\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Source\\Repos\\PatchUP\\PatchUP\\PatchUP.csproj",
+      "projectUniqueName": "D:\\Kuliah\\JuniorProject\\Repos\\PatchUP\\PatchUP\\PatchUP.csproj",
       "projectName": "PatchUP",
-      "projectPath": "C:\\Users\\ACER\\Source\\Repos\\PatchUP\\PatchUP\\PatchUP.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Source\\Repos\\PatchUP\\PatchUP\\obj\\",
+      "projectPath": "D:\\Kuliah\\JuniorProject\\Repos\\PatchUP\\PatchUP\\PatchUP.csproj",
+      "packagesPath": "C:\\Users\\muhammad ramadani\\.nuget\\packages\\",
+      "outputPath": "D:\\Kuliah\\JuniorProject\\Repos\\PatchUP\\PatchUP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\muhammad ramadani\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
