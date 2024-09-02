@@ -1,0 +1,16 @@
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\bin\Debug\net6.0-windows\PatchUP.exe
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\bin\Debug\net6.0-windows\PatchUP.deps.json
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\bin\Debug\net6.0-windows\PatchUP.runtimeconfig.json
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\bin\Debug\net6.0-windows\PatchUP.dll
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\bin\Debug\net6.0-windows\PatchUP.pdb
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\PatchUP.Form1.resources
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\PatchUP.csproj.GenerateResource.cache
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\PatchUP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\PatchUP.AssemblyInfoInputs.cache
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\PatchUP.AssemblyInfo.cs
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\PatchUP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\PatchUP.dll
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\refint\PatchUP.dll
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\PatchUP.pdb
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\PatchUP.genruntimeconfig.cache
+C:\Users\ACER\Source\Repos\PatchUP\PatchUP\obj\Debug\net6.0-windows\ref\PatchUP.dll
